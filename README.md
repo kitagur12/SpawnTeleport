@@ -1,5 +1,6 @@
 # SpawnTeleport
 PocketMine-MP Plugin (API: 5.0.0)
+
 This plugin teleports players to a specific location when they join the server.
 
 # Main functions
